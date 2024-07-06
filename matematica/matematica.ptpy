@@ -1,0 +1,23 @@
+importar math
+
+func soma (a, b):
+    retornar a + b
+
+func subtrair (a, b):
+    retornar a - b
+
+func multiplicar (a, b):
+    retornar a * b
+
+func dividir (a, b):
+    retornar a / b
+
+func pifunc ():
+    retornar math.pi
+
+func raiz_quadrada(numero: int):
+    retornar math.sqrt(numero)
+
+pi = pifunc()
+
+const_e = math.e

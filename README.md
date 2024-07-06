@@ -10,4 +10,4 @@ https://github.com/Matheus-Schwebel/Porthon-lang/
 
 | Nome | Versão | Código fonte | Descrição |
 |------|--------|--------------|-----------|
-| Matematica | 1.0 | https://https://github.com/Matheus-Schwebel/bibliotecas-porthon/ | Uma biblioteca porthon para a matemática. |
+| Matematica | 1.0 | https://https://github.com/Matheus-Schwebel/bibliotecas-porthon/matematica | Uma biblioteca porthon para a matemática. |

@@ -7,7 +7,7 @@ Uma biblioteca porthon para interação com o sistema operacional, em português
 Precisa ter o python 3 instalado. Usando https://github.com/Matheus-Schwebel/Porthon-lang/, você pode baixar o arquivo sistema.ptpy em <seu_projeto>/libraries/ e executar:
 
 ```
-py main.py ./libraries/matematica.ptpy
+py main.py ./libraries/sistema.ptpy
 ```
 
 Agora você consegue utilizar a biblioteca sistema.

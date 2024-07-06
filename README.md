@@ -6,6 +6,10 @@ Bem vindo ao *repositório* de **bibliotecas** ~~python~~ **porthon**
 
 https://github.com/Matheus-Schwebel/Porthon-lang/
 
+### Como instalá-las?
+
+Ver os READMEs das bibliotecas.
+
 ### Bibliotecas porthon
 
 | Nome | Versão | Código fonte | Descrição |

@@ -1,0 +1,40 @@
+# sistema.ptpy
+
+importar sys
+importar os
+
+# Função para listar os argumentos passados via linha de comando
+func listar_argumentos():
+    retornar sys.argv
+
+# Função para obter o nome do sistema operacional
+func nome_sistema_operacional():
+    retornar os.name
+
+# Função para listar os arquivos em um diretório
+func listar_arquivos(diretorio='.'):
+    tente:
+        retornar os.listdir(diretorio)
+    exceto FileNotFoundError:
+        imprimir(f"Diretório '{diretorio}' não encontrado.")
+        retornar []
+
+# Função para criar um diretório
+func criar_diretorio(nome_diretorio):
+    tente:
+        os.mkdir(nome_diretorio)
+        imprimir(f"Diretório '{nome_diretorio}' criado com sucesso.")
+    exceto FileExistsError:
+        imprimir(f"Diretório '{nome_diretorio}' já existe.")
+    exceto Exception as e:
+        imprimir(f"Erro ao criar diretório '{nome_diretorio}': {e}")
+
+# Função para remover um arquivo
+func remover_arquivo(nome_arquivo):
+    tente:
+        os.remove(nome_arquivo)
+        imprimir(f"Arquivo '{nome_arquivo}' removido com sucesso.")
+    exceto FileNotFoundError:
+        imprimir(f"Arquivo '{nome_arquivo}' não encontrado.")
+    except Exception as e:
+        imprimir(f"Erro ao remover arquivo '{nome_arquivo}': {e}")

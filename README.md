@@ -2,7 +2,7 @@
 
 Bem vindo ao *repositório* de **bibliotecas** ~~python~~ **porthon**
 
-**Se você não conhece o *porthon*, acesse o link**
+**Se você não conhece o *porthon*, acesse o link:**
 
 https://github.com/Matheus-Schwebel/Porthon-lang/
 

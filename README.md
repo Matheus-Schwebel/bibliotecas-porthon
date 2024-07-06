@@ -1,3 +1,3 @@
 **Olá, Amigo!**
 
-Bem vindo ao *repositório* de **bibliotecas** ~~python~~ *porthon*
+Bem vindo ao *repositório* de **bibliotecas** ~~python~~ **porthon**

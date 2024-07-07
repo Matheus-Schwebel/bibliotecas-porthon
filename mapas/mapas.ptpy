@@ -1,0 +1,16 @@
+# mapas.ptpy
+
+import folium
+
+# Função for criar um mapa básico com Folium
+func criar_mapa(latitude, longitude):
+    mapa = folium.Map(location=[latitude, longitude], zoom_start=12)
+    retornar mapa
+    
+# Função for adicionar marcador no mapa
+func adicionar_marcador(mapa, latitude, longitude, popup_text):
+    folium.Marker([latitude, longitude], popup=popup_text).add_to(mapa)
+
+func salvar(mapa, arquivo_html):
+    mapa.save(arquivo_html)
+

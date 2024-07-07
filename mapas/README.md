@@ -16,4 +16,4 @@ Agora você consegue utilizar a biblioteca mapas.
 
 | Nome | Versão | Código fonte | Descrição | Idioma | Autor |
 |------|--------|--------------|-----------|--------| ----- |
-| Mapas | 1.0 | https://https://github.com/Matheus-Schwebel/bibliotecas-porthon/mapas | Uma biblioteca porthon para geografia. | **100% português** | Matheus Schwebel |
+| Mapas | 1.0 | https://https://github.com/Matheus-Schwebel/bibliotecas-porthon/tree/main/mapas | Uma biblioteca porthon para geografia. | **100% português** | Matheus Schwebel |

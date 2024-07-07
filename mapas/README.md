@@ -4,13 +4,13 @@ Uma biblioteca porthon para a matemática, em português.
 
 ## Como instalá-la?
 
-Precisa ter o python 3 instalado. Usando https://github.com/Matheus-Schwebel/Porthon-lang/, você pode baixar o arquivo matematica.ptpy em <seu_projeto>/libraries/ e executar:
+Precisa ter o python 3 instalado. Usando https://github.com/Matheus-Schwebel/Porthon-lang/, você pode baixar o arquivo mapas.ptpy em <seu_projeto>/libraries/ e executar:
 
 ```
-py main.py ./libraries/matematica.ptpy
+py main.py ./libraries/mapas.ptpy
 ```
 
-Agora você consegue utilizar a biblioteca matematica.
+Agora você consegue utilizar a biblioteca mapas.
 
 ## Dados
 

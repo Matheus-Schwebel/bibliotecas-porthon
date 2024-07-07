@@ -16,4 +16,4 @@ Agora você consegue utilizar a biblioteca matematica.
 
 | Nome | Versão | Código fonte | Descrição | Idioma | Autor |
 |------|--------|--------------|-----------|--------| ----- |
-| Matematica | 1.0 | https://https://github.com/Matheus-Schwebel/bibliotecas-porthon/matematica | Uma biblioteca porthon para a matemática. | **100% português** | Matheus Schwebel |
+| Matematica | 1.0 | https://https://github.com/Matheus-Schwebel/bibliotecas-porthon/tree/main/matematica | Uma biblioteca porthon para a matemática. | **100% português** | Matheus Schwebel |

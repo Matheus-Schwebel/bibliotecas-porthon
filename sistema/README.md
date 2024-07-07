@@ -16,4 +16,4 @@ Agora você consegue utilizar a biblioteca sistema.
 
 | Nome | Versão | Código fonte | Descrição | Idioma | Autor |
 |------|--------|--------------|-----------|--------| ----- |
-| Sistema | 1.0 | https://https://github.com/Matheus-Schwebel/bibliotecas-porthon/sistema | Uma biblioteca porthon para a interação com o sistema operacional. | **100% português** | Matheus Schwebel |
+| Sistema | 1.0 | https://https://github.com/Matheus-Schwebel/bibliotecas-porthon/tree/main/sistema | Uma biblioteca porthon para a interação com o sistema operacional. | **100% português** | Matheus Schwebel |

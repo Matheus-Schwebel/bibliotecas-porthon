@@ -1,6 +1,6 @@
 # mapas.ptpy
 
-import folium
+importar folium
 
 # Função for criar um mapa básico com Folium
 func criar_mapa(latitude, longitude):

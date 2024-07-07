@@ -16,4 +16,4 @@ Ver os READMEs das bibliotecas.
 |------|--------|--------------|-----------|-------|
 | Matematica | 1.0 | https://https://github.com/Matheus-Schwebel/bibliotecas-porthon/matematica | Uma biblioteca porthon para a matemática. | Matheus Schwebel
 | Sistema | 1.0 | https://https://github.com/Matheus-Schwebel/bibliotecas-porthon/sistema | Uma biblioteca porthon para interação com o sistema. | Matheus Schwebel
-| Mapas | 1.0 | https://https://github.com/Matheus-Schwebel/bibliotecas-porthon/mapas | Uma biblioteca porthon para geografia. | **100% português** | Matheus Schwebel |
+| Mapas | 1.0 | https://https://github.com/Matheus-Schwebel/bibliotecas-porthon/mapas | Uma biblioteca porthon para geografia. | Matheus Schwebel |

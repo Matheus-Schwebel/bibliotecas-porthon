@@ -38,3 +38,18 @@ func remover_arquivo(nome_arquivo):
         imprimir(f"Arquivo '{nome_arquivo}' não encontrado.")
     except Exception as e:
         imprimir(f"Erro ao remover arquivo '{nome_arquivo}': {e}")
+
+func criar_arquivo(arquivo):
+    se os.path.exists(arquivo):
+        imprimir("O arquivo existe.")
+    contexto: open(arquivo, 'a') como arquivo:
+        arquivo.write("\n")
+
+func imprimir(*args, sep=" ", end="\n"):
+    print(*args, sep=sep, end=end)
+
+# Test
+
+name = "Program"
+
+imprimir("Hello, " + name + ".")
